@@ -33,6 +33,6 @@ build/
 ### VS Code ###
 .vscode/
 
-/venv
+*.log
 
-.cfg
+.venv
